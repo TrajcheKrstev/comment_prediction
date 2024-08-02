@@ -1,1 +1,1 @@
-# comment_prediction
+This project, completed as part of the **Intro to Data Mining** course, involved developing a predictive model to estimate the number of comments on news articles. The model uses a combination of text processing techniques and machine learning algorithms, leveraging various features extracted from article content and metadata to make accurate predictions.
